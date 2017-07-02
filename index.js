@@ -9,8 +9,8 @@ export default class App extends Component {
 		return (
 			<div>
 				<h1>Hello, World!</h1>
-				<FacebookShareButton url="http://sharingbuttons.io" />
-				<TwitterShareButton url="http://sharingbuttons.io" />
+				<FacebookShareButton url="http://sharingbuttons.io" style="margin:3px;"/>
+				<TwitterShareButton url="http://sharingbuttons.io" style="margin:3px" />
 			</div>
 			
 		);
