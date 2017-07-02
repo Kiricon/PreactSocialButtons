@@ -7,7 +7,8 @@
     font-size: 13px;
     height: 28px;
     padding: 0 4px 0 6px;
-    display: table;
+    display: inline-block;
+    text-decoration: none;
 }
 
 .shareButton:hover {
