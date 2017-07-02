@@ -7,7 +7,8 @@ export default class TwitterShareButton {
             <a href="https://twitter.com/intent/tweet?original_referer=http%3A%2F%2Flocalhost%3A8080%2F&ref_src=twsrc%5Etfw&text=Hello%20world&tw_p=tweetbutton&url=http%3A%2F%2Flocalhost%3A8080%2F"
             target="_blank"
             class={style.twitterButton}>
-                <i/>
+                <i></i>
+                <span>Tweet</span>
             </a>
         );
     }

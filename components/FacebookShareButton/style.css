@@ -4,9 +4,9 @@
     color: #fff;
     cursor: pointer;
     border-radius: 4px;
-    font-size: 13px;
-    height: 28px;
-    padding: 0 4px 0 6px;
+    font-size: 17px;
+    height: 32px;
+    padding: 0 6px 0 8px;
     display: inline-block;
     text-decoration: none;
 }
@@ -17,12 +17,12 @@
 }
 
 .shareButton img {
-    height: 16px;
-    width: 16px;
+    height: 24px;
+    width: 24px;
 }
 
 .shareButton span {
-    height: 19px;
+    height: 28px;
     padding: 4px 2px;
 }
 
