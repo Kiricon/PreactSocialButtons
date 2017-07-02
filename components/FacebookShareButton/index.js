@@ -4,7 +4,12 @@ import style from './style';
 export default class FacebookShareButton extends Component {
     render() {
         return (
-            <button>Facebook Share</button>
+            <div class={style.shareButton}>
+                <span class={style.imgSpan}>
+                    <img src="https://www.facebook.com/rsrc.php/v3/yP/r/Wq8eKb91kes.png" />
+                </span>
+                <span>Share</span>
+            </div>
         );
     }
 }

@@ -1,0 +1,32 @@
+.shareButton {
+    background: #4267b2;
+    border: 1px solid #4267b2;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 13px;
+    height: 28px;
+    padding: 0 4px 0 6px;
+    display: table;
+}
+
+.shareButton:hover {
+    background: #365899;
+    border: 1px solid #365899;
+}
+
+.shareButton img {
+    height: 16px;
+    width: 16px;
+}
+
+.shareButton span {
+    height: 19px;
+    padding: 4px 2px;
+}
+
+.imgSpan {
+    display: inline-block;
+    vertical-align: middle;
+    zoom: 1;
+}
