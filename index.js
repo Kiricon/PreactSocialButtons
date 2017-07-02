@@ -10,7 +10,7 @@ export default class App extends Component {
 			<div>
 				<h1>Hello, World!</h1>
 				<FacebookShareButton url="http://sharingbuttons.io" />
-				<TwitterShareButton />
+				<TwitterShareButton url="http://sharingbuttons.io" />
 			</div>
 			
 		);
